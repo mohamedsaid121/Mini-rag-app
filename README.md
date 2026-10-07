@@ -20,7 +20,7 @@ This is a minimal implementation of the RAG model fro question answering.
 
 (Optional) Setup you command line interface for better readability
 ``` bash
-   $ export PS1="\[\033[01;32m\]\u@\h:\w\n\[\033[00m\]\$ 
+   $ export PS1="\[\033[01;32m\]\u@\h:\w\n\[\033[00m\]\$ " 
 ```
 
 ### Installation

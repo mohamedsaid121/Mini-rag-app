@@ -7,3 +7,5 @@ class ResponseSignal(Enum):
     FILE_UPLOADED_SUCCESS= "File uploaded successfully"
     FILE_UPLOADED_FAILED= "File upload failed"
     FILE_VALIDATED_SUCCESS= "File validated successfully"
+    FILE_PROCESSING_FAILED="File processsing failed"
+    FILE_PROCESSING_SUCCESS="File processsing successfully"
